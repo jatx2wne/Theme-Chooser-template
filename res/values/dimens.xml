@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<!--market-->
+    <dimen name="com_android_vending_content_primary_size">18.0sp</dimen>
+    <dimen name="com_android_vending_content_entry_medium_size">13.0sp</dimen>
+    <dimen name="com_android_vending_content_entry_small_size">12.0sp</dimen>
+    <dimen name="com_android_vending_content_secondary_size">14.0sp</dimen>
+<!--market-->
+
+<!--contacts-->
+    <dimen name="contact_browser_list_item_photo_size">64dip</dimen>
+    <dimen name="contact_browser_list_item_text_indent">8dip</dimen>
+<!--contacts-->
+
+<!--gmail-->
+    <dimen name="super_collapsed_height">24.0sp</dimen>
+<!--gmail-->
+
+<!-- framework -->
+    <dimen name="notification_subtext_size">12.0dip</dimen>
+<!-- framework -->
+</resources>

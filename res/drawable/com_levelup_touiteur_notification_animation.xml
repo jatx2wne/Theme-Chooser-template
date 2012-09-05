@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="200" android:drawable="@drawable/com_levelup_touiteur_notification_0" />
+    <item android:duration="200" android:drawable="@drawable/com_levelup_touiteur_notification_1" />
+    <item android:duration="200" android:drawable="@drawable/com_levelup_touiteur_notification_2" />
+    <item android:duration="200" android:drawable="@drawable/com_levelup_touiteur_notification_3" />
+    <item android:duration="200" android:drawable="@drawable/com_levelup_touiteur_notification_4" />
+    <item android:duration="200" android:drawable="@drawable/com_levelup_touiteur_notification_5" />
+    <item android:duration="200" android:drawable="@drawable/com_levelup_touiteur_notification_6" />
+    <item android:duration="200" android:drawable="@drawable/com_levelup_touiteur_notification_7" />
+    <item android:duration="200" android:drawable="@drawable/com_levelup_touiteur_notification_8" />
+    <item android:duration="200" android:drawable="@drawable/com_levelup_touiteur_notification_9" />
+    <item android:duration="200" android:drawable="@drawable/com_levelup_touiteur_notification_10" />
+    <item android:duration="200" android:drawable="@drawable/com_levelup_touiteur_notification_9" />
+    <item android:duration="200" android:drawable="@drawable/com_levelup_touiteur_notification_8" />
+    <item android:duration="200" android:drawable="@drawable/com_levelup_touiteur_notification_7" />
+    <item android:duration="200" android:drawable="@drawable/com_levelup_touiteur_notification_6" />
+    <item android:duration="200" android:drawable="@drawable/com_levelup_touiteur_notification_5" />
+    <item android:duration="200" android:drawable="@drawable/com_levelup_touiteur_notification_4" />
+    <item android:duration="200" android:drawable="@drawable/com_levelup_touiteur_notification_3" />
+    <item android:duration="200" android:drawable="@drawable/com_levelup_touiteur_notification_2" />
+    <item android:duration="200" android:drawable="@drawable/com_levelup_touiteur_notification_1" />
+    <item android:duration="200" android:drawable="@drawable/com_levelup_touiteur_notification_0" />
+</animation-list>

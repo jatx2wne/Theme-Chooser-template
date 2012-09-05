@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<!--general-->
+    <color name="template">#ffffffff</color><!-- color that can be used throughout the theme if you choose -->
+    <color name="semi_transparent">#80000000</color>
+    <color name="dark_grey">#ff666666</color>
+    <color name="grey">#ffbfbfbf</color>
+<!--general-->
+
+<!--apex-->
+    <color name="homescreen_icon_text_color">#ffffffff</color>
+    <color name="outline_color">#FF33b5e5</color>
+    <color name="folder_title_color">#ff33b5e5</color>
+    <color name="folder_item_text_color">#ffffffff</color>
+
+    <color name="drawer_background_color">#ff000000</color>
+    <color name="drawer_tab_text_color">#ffffffff</color>
+    <color name="drawer_icon_text_color">#ffffffff</color>
+    <color name="drawer_widget_size_color">#FF555555</color>
+
+    <color name="bubble_text_color">#FFFFFFFF</color>
+    <color name="bubble_ring_color">#FFFFFFFF</color>
+    <color name="bubble_shadow_color">#ff000000</color>
+    <color name="bubble_background_color">#FFAA0000</color>
+    <color name="bubble_shader_color">#ffff6f60</color>
+<!--apex-->
+
+<!--calculator-->
+    <color name="calculator_button_text">#ffffffff</color>
+<!--calculator-->
+
+<!--calendar-->
+    <color name="calendar_future_bg_color">#ffffffff</color>
+    <color name="agenda_item_standard_color">#ff333333</color>
+    <color name="agenda_day_item_text_color">#ff666666</color>
+    <color name="agenda_item_where_text_color">#ff666666</color>
+    <color name="agenda_day_bar_background_color">#ffffffff</color>
+    <color name="background_color">#fffafafa</color>
+    <color name="month_day_number_other">#ff666666</color>
+    <color name="month_week_num_color">#ff999999</color>
+    <color name="month_day_names_color">#ff999999</color>
+    <color name="month_today_number">#ff333333</color>
+    <color name="month_day_number">#ff666666</color>
+    <color name="calendar_date_banner_background">#ffeeeeee</color>
+    <color name="calendar_date_banner_text_color">#ff666666</color>
+    <color name="month_saturday">#80333333</color>
+    <color name="month_sunday">#80333333</color>
+    <color name="month_other_bgcolor">#ffeeeeee</color>
+    <color name="month_today_bgcolor">#ffffffff</color>
+    <color name="month_bgcolor">#ffe5e5e5</color>
+<!--calendar-->
+
+
+<!--contacts-->
+    <color name="com_android_contacts_quickcontact_list_divider">#ffcdcdcd</color>
+    <color name="com_android_contacts_quickcontact_list_background">#ffe2e2e2</color>
+    <color name="com_android_contacts_quickcontact_tab_indicator">#ff33b5e6</color>
+    <color name="com_android_contacts_background_primary">#ffffffff</color>
+    <color name="com_android_contacts_background_social_updates">#ffeeeeee</color>
+    <color name="com_android_contacts_section_header_text_color">#ff999999</color>
+    <color name="com_android_contacts_detail_update_tab_text_color">#ff777777</color>
+    <color name="com_android_contacts_call_log_missed_call_highlight_color">#ffff0000</color>
+    <color name="com_android_contacts_call_log_voicemail_highlight_color">#ff33b5e5</color>
+    <color name="com_android_contacts_dialtacts_secondary_text_color">#ff888888</color>
+    <color name="com_android_contacts_detail_tab_carousel_tab_label_color">#ffeeeeee</color>
+    <color name="com_android_contacts_people_contact_tile_status_color">#ffff9800</color>
+    <color name="snippet_text_color">#ff808080</color> <!--styles.xml-->
+    <color name="com_android_contacts_people_app_theme_color">#ff33b5e5</color>
+    <color name="com_android_contacts_contact_count_text_color">#ffaaaaaa</color>
+    <color name="com_android_contacts_action_bar_button_text_color">#ffffffff</color>
+<!--contacts-->
+
+<!--gmail-->
+    <color name="com_google_android_gm_quoted_text">#ff808080</color>
+    <color name="com_google_android_gm_drafts">#ff990000</color>
+    <color name="com_google_android_gm_unread_conversation_subject_text">#ff313031</color>
+    <color name="com_google_android_gm_default_text_color">#ff000000</color>
+    <color name="com_google_android_gm_light_text_color">#ff666666</color>
+    <color name="com_google_android_gm_label_disabled_drop_target_text_color">#ff999999</color>
+    <color name="com_google_android_gm_widget_label_shadow_color">#ff0d0d0d</color>
+    <color name="com_google_android_gm_widget_account_color">#c0ffffff</color>
+    <color name="com_google_android_gm_widget_unread_count_color">#c0ffffff</color>
+    <color name="com_google_android_gm_accountInfoColor">#ff888888</color>
+    <color name="com_google_android_gm_white">#ffffffff</color>
+    <color name="com_google_android_gm_fadedConversationHeader">#7f99d6eb</color>
+    <color name="com_google_android_gm_fadedActivatedConversationHeader">#7faccbf9</color>
+    <color name="com_google_android_gm_fadedWebView">#7fffffff</color>
+    <color name="com_google_android_gm_conv_subject_border">#ffc0c0c0</color>
+    <color name="com_google_android_gm_conv_header_text_light">#ff777777</color>
+    <color name="com_google_android_gm_position_bar_background">#ff777777</color>
+    <color name="com_google_android_gm_message_header_bg_expanded">#ff36b6ff</color>
+    <color name="com_google_android_gm_message_header_bg_collapsed">#ffcccccc</color>
+    <color name="com_google_android_gm_conv_header_add_label_text">@android:color/black</color>
+    <color name="com_google_android_gm_conv_header_add_label_background">#ffeeeeee</color>
+    <color name="com_google_android_gm_compose_label_text">#ffaaaaaa</color>
+    <color name="com_google_android_gm_subject_text_color">#ff333333</color>
+    <color name="com_google_android_gm_quotedTextColor">#ff777777</color>
+    <color name="com_google_android_gm_subject_text_color_unread">#ff555555</color>
+    <color name="com_google_android_gm_snippet_text_color_unread">#ff555555</color>
+    <color name="com_google_android_gm_senders_text_color_unread">#ff333333</color>
+    <color name="com_google_android_gm_subject_text_color_read">#ff777777</color>
+    <color name="com_google_android_gm_snippet_text_color_read">#ff777777</color>
+    <color name="com_google_android_gm_senders_text_color_read">#ff555555</color>
+    <color name="com_google_android_gm_date_text_color_unread">@color/com_google_android_gm_senders_text_color_unread</color>
+    <color name="com_google_android_gm_date_text_color_read">@color/com_google_android_gm_senders_text_color_read</color>
+    <color name="com_google_android_gm_label_list_heading_text_color">#ff777777</color>
+    <color name="com_google_android_gm_actionbar_secondary">#ff777777</color>
+<!--gmail-->
+
+<!--email-->
+    <!-- Main UI -->
+    <color name="com_android_email_message_list_item_background_unread">#ff404040</color>
+    <color name="com_android_email_message_list_item_background_read">#ff000000</color>
+    <color name="com_android_email_account_folder_list_item_separator">#303030</color>
+    <color name="com_android_email_connection_error_banner">#fffff1a8</color>
+
+    <!-- Standard text colors -->
+    <color name="com_android_email_text_primary_color">#000000</color>
+    <color name="com_android_email_text_secondary_color">#666666</color>
+    <color name="com_android_email_text_ternary_color">#aaaaaa</color>
+    <color name="com_android_email_text_disabled_color">#888888</color>
+
+    <color name="com_android_email_button_text_color">#777777</color>
+    <color name="com_android_email_button_text_disabled_color">#cccccc</color>
+    <!--  Widget colors -->
+    <color name="com_android_email_widget_default_text_color">#ff000000</color>
+    <color name="com_android_email_widget_light_text_color">#ff666666</color>
+    <color name="com_android_email_widget_title_color">#333333</color>
+    <color name="com_android_email_widget_unread_color">#777777</color>
+
+    <color name="com_android_email_message_view_info_back_color">#deecfa</color>
+    <color name="com_android_email_message_view_header_color">#3cb8e6</color>
+    <color name="com_android_email_message_activated_color">#3cb8e6</color>
+
+    <color name="com_android_email_error_bar_background">#80ffff66</color>
+<!--email-->
+
+<!--market-->
+    <color name="com_android_vending_details_background">#ffeeeeee</color>
+    <color name="com_android_vending_details_review_source_text">#ff3f9fe0</color>
+    <color name="com_android_vending_white">#ffffffff</color>
+    <color name="com_android_vending_bucket_header_info">#ffffffff</color>
+    <color name="com_android_vending_bucket_header_secondary_info">#ffcccccc</color>
+    <color name="com_android_vending_black">#ff000000</color>
+    <color name="com_android_vending_grey">#ff999999</color>
+    <color name="com_android_vending_darkgrey">#ff666666</color>
+    <color name="com_android_vending_tos_text_color">#ffbebebe</color>
+    <color name="com_android_vending_permissions_background">#ffe0e0e0</color>
+    <color name="com_android_vending_details_content_text_color">#ff404040</color>
+    <color name="com_android_vending_page_error_background">@color/white</color>
+    <color name="com_android_vending_page_error_text_color">@color/black</color>
+    <color name="com_android_vending_title_background">#ff3d3d3d</color>
+    <color name="com_android_vending_title_dark_background">#ff252525</color>
+    <color name="com_android_vending_separator_line">#ffdddddd</color>
+    <color name="com_android_vending_permissions_secondary_foreground">#ff404040</color>
+    <color name="com_android_vending_apps_background">#ff96aa39</color>
+    <color name="com_android_vending_books_background">#ff3f9fe0</color>
+    <color name="com_android_vending_movies_background">#ffc74b46</color>
+    <color name="com_android_vending_music_background">#fff4842d</color>
+    <color name="com_android_vending_magazines_background">#ff6058a6</color>
+    <color name="com_android_vending_apps_foreground">#ff96aa39</color>
+    <color name="com_android_vending_books_foreground">#ff3c95d3</color>
+    <color name="com_android_vending_movies_foreground">#ffbc4742</color>
+    <color name="com_android_vending_music_foreground">#ffc96d25</color>
+    <color name="com_android_vending_magazines_foreground">#ff5161bc</color>
+    <color name="com_android_vending_apps_dark">#ff809130</color>
+    <color name="com_android_vending_books_dark">#ff3687bf</color>
+    <color name="com_android_vending_movies_dark">#ff943c39</color>
+    <color name="com_android_vending_music_dark">#ffd77428</color>
+    <color name="com_android_vending_magazines_dark">#ff454293</color>
+    <color name="com_android_vending_price_color">#80ffffff</color>
+    <color name="com_android_vending_purchase_footer_background">#ffe0e0e0</color>
+    <color name="com_android_vending_purchase_separator">#ff686868</color>
+    <color name="com_android_vending_main_background">#ffededed</color>
+    <color name="com_android_vending_details_panel_pack_header_foreground">#ff777777</color>
+    <color name="com_android_vending_details_panel_separator">#ffbebebe</color>
+    <color name="com_android_vending_billing_form_background">#ffededed</color>
+    <color name="com_android_vending_uneven_grid_cell_highlight_bottom">#ff3d3d3d</color>
+    <color name="com_android_vending_uneven_grid_cell_fg_primary">#ffffffff</color>
+    <color name="com_android_vending_uneven_grid_cell_fg_secondary">#ffcccccc</color>
+    <color name="com_android_vending_uneven_grid_cell_list_background">#ff5a5a5a</color>
+    <color name="com_android_vending_uneven_grid_cell_loading">#ff333333</color>
+    <color name="com_android_vending_uneven_grid_cell_top_highlight">#31ffffff</color>
+    <color name="com_android_vending_uneven_grid_cell_bottom_highlight">#31000000</color>
+    <color name="com_android_vending_loading_background">#ff666666</color>
+    <color name="com_android_vending_corpus_selector_active">#ff17a1cf</color>
+    <color name="com_android_vending_setup_wizard_title_color">#ff33b5e5</color>
+    <color name="com_android_vending_setup_wizard_divider_color">#33000000</color>
+    <color name="com_android_vending_song_highlighted_background">#ff0099cc</color>
+    <color name="com_android_vending_video_preview_background">#cc000000</color>
+    <color name="com_android_vending_review_histogram_bar">#ff4db8ca</color>
+    <color name="com_android_vending_screenshot_edge_fade">#ffbababa</color>
+    <color name="com_android_vending_music_play_all">#ffd77428</color>
+    <color name="com_android_vending_cell_title_overlay">#e5333333</color>
+    <color name="com_android_vending_hero_video_overlay">#4c000000</color>
+    <color name="com_android_vending_season_switching_overlay">#ccededed</color>
+    <color name="com_android_vending_tipper_sticker_explicit">#ffd77428</color>
+    <color name="com_android_vending_tipper_sticker_edited">@color/grey</color>
+    <color name="com_android_vending_screenshot_background">#42262626</color>
+    <color name="com_android_vending_reviews_filtering_color">#ff797979</color>
+<!--market-->
+
+<!--mms-->
+    <color name="com_android_mms_text_hairline">#ffcccccc</color>
+    <color name="com_android_mms_message_count_color">#66333333</color>
+    <color name="com_android_mms_timestamp_color">#bf000000</color>
+    <color name="com_android_mms_unread_bgcolor">#ffffffff</color>
+    <color name="com_android_mms_read_bgcolor">#ffeeeeee</color>
+    <color name="com_android_mms_widget_sender_text_color_read">#ff555555</color>
+    <color name="com_android_mms_widget_sender_text_color_unread">#ff333333</color>
+    <color name="com_android_mms_widget_subject_text_color_read">#ff777777</color>
+    <color name="com_android_mms_widget_subject_text_color_unread">#ff555555</color>
+<!--mms-->
+
+<!--phone-->
+    <color name="people_app_theme_color">#ffffffff</color>
+<!--phone-->
+
+<!--systemui-->
+    <color name="com_android_systemUI_status_bar_recents_app_label_color">#ff000000</color>
+    <color name="com_android_systemUI_notification_list_shadow_top">#00000000</color>
+<!--systemui-->
+
+<!-- framework -->
+    <color name="holo_blue_light">#ff33b5e5</color>
+    <color name="background_dark">@drawable/background_holo_dark</color>
+    <!--<color name="background_holo_dark">@drawable/background_holo_dark</color>-->
+<!-- framework -->
+
+<!--Plume-->
+    <color name="abs__holo_blue_light">#ff33b5e5</color>
+    <color name="expandable_bg">#ff3d3d3d</color>
+    <color name="plume_grey_bg">#ff4d4d4d</color>
+    <color name="plume_dark_bg">#ff111111</color>
+    <color name="plume_expandable_bg">#ff000000</color>
+    <color name="plume_expandable_replies">#ff343434</color>
+<!--Plume-->
+
+<!--swype-->
+    <color name="com_nuance_swype_input_key_text_color">#ffffffff</color>
+    <color name="com_nuance_swype_input_alt_text_color">#ffb8b8b8</color>
+    <color name="com_nuance_swype_input_key_popup_label_text_color">#ffffffff</color>
+    <color name="com_nuance_swype_input_func_key_text_color">#ffffffff</color>
+    <color name="com_nuance_swype_input_func_alt_text_color">#ffb8b8b8</color>
+    <color name="com_nuance_swype_input_popup_key_color">#ffffffff</color>
+    <color name="com_nuance_swype_input_shadow_color">#ff000000</color>
+    <color name="com_nuance_swype_input_alt_shadow_color">#ff000000</color>
+    <color name="com_nuance_swype_input_trace_color">#b2ffa200</color>
+    <color name="com_nuance_swype_input_candidate_normal">#ffffffff</color>
+    <color name="com_nuance_swype_input_candidate_recommended">#ffffa200</color>
+    <color name="com_nuance_swype_input_candidate_other">#ffffffff</color>
+    <color name="com_nuance_swype_input_candidate_component">#ff006600</color>
+    <color name="com_nuance_swype_input_candidate_pressed">#ff000000</color>
+    <color name="com_nuance_swype_input_list_selector_background_pressed">#ffffffff</color>
+    <color name="com_nuance_swype_input_list_selector_background_tapped">#ff4d4e50</color>
+    <color name="com_nuance_swype_input_word_error_foreground_color">#ffc00000</color>
+    <color name="com_nuance_swype_input_word_error_background_color">#00ffffff</color>
+    <color name="com_nuance_swype_input_word_next_word_prediction_foreground_color">#ffcccccc</color>
+    <color name="com_nuance_swype_input_word_next_word_prediction_background_color">#00ffffff</color>
+    <color name="com_nuance_swype_input_word_inline_foreground_color">#ffffffff</color>
+    <color name="com_nuance_swype_input_word_inline_background_color">#ffffa200</color>
+    <color name="com_nuance_swype_input_word_stem_foreground_color">#ff000000</color>
+    <color name="com_nuance_swype_input_word_stem_background_color">#00ffffff</color>
+    <color name="com_nuance_swype_input_multitap_foreground_color">#ffffffff</color>
+    <color name="com_nuance_swype_input_multitap_background_color">#ff444444</color>
+    <color name="com_nuance_swype_input_selected_foreground_color">#aa000000</color>
+    <color name="com_nuance_swype_input_spelling_foreground_color">#99000066</color>
+    <color name="com_nuance_swype_input_component_foreground_color">#ff006600</color>
+    <color name="com_nuance_swype_input_invalid_foreground_color">#ffff0000</color>
+    <color name="com_nuance_swype_input_error_flash_background_color">#ccff0000</color>
+    <color name="com_nuance_swype_input_ver_candidate_normal">#fff5f5dc</color>
+    <color name="com_nuance_swype_input_ver_candidate_recommended">#ffffa200</color>
+    <color name="com_nuance_swype_input_ver_candidate_other">#fff5f5dc</color>
+    <color name="com_nuance_swype_input_ver_candidate_pressed">#ff000000</color>
+    <color name="com_nuance_swype_input_ver_candidate_component">#ff006600</color>
+    <color name="com_nuance_swype_input_white">#ffffffff</color>
+    <color name="com_nuance_swype_input_black">#ff000000</color>
+    <color name="com_nuance_swype_input_transparent">#00000000</color>
+    <color name="com_nuance_swype_input_semi_transparent">#30000000</color>
+    <color name="com_nuance_swype_input_background_dark">#ff1a1a1a</color>
+    <color name="com_nuance_swype_input_about_swype_links">#ffffa200</color>
+    <color name="com_nuance_swype_input_about_dragon_links">#ff48a842</color>
+    <color name="com_nuance_swype_input_preference_bar_begin">#ffc1c1c1</color>
+    <color name="com_nuance_swype_input_preference_bar_middle">#ff8c8c8c</color>
+    <color name="com_nuance_swype_input_preference_bar_end">#ff8c8c8c</color>
+    <color name="com_nuance_swype_input_handwriting_mode_display_color">#ffcccccc</color>
+<!--swype-->
+
+<!--talk-->
+    <color name="com_google_android_talk_online_text_color">#ffff9800</color>
+    <color name="com_google_android_talk_offline_text_color">#ffffffff</color>
+    <color name="com_google_android_talk_self_status_text_color">#ffffffff</color>
+    <color name="com_google_android_talk_self_status_item_color">#ffffffff</color>
+    <color name="com_google_android_talk_roster_line1_color">#ffff9800</color>
+    <color name="com_google_android_talk_roster_line2_color">#ff808080</color>
+    <color name="com_google_android_talk_chat_available_text_color">#ffff9800</color>
+    <color name="com_google_android_talk_chat_available_bg_color">#ff000000</color>
+    <color name="com_google_android_talk_roster_list_online_background">#ff000000</color>
+    <color name="com_google_android_talk_roster_list_offline_background">#ff000000</color>
+    <color name="com_google_android_talk_roster_list_offline_text_color">#ffffffff</color>
+    <color name="com_google_android_talk_chat_active_bg_color">#ffffffff</color>
+<!--talk-->
+
+    <!-- This controls TMobile theme engine edits. -->
+    <color name="safe_mode_text">#80ffffff</color>
+    <color name="color_primary_focus">#ffff8a12</color>
+    <color name="color_primary_press">#ffffb600</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="gray">#ff808080</color>
+    <color name="bright_foreground_dark">#ffffffff</color>
+    <color name="bright_foreground_dark_disabled">#80ffffff</color>
+    <color name="bright_foreground_dark_inverse">#ff000000</color>
+    <color name="dim_foreground_dark">#ffbebebe</color>
+    <color name="dim_foreground_dark_disabled">#80bebebe</color>
+    <color name="dim_foreground_dark_inverse">#ff323232</color>
+    <color name="dim_foreground_dark_inverse_disabled">#80323232</color>
+    <color name="hint_foreground_dark">#ff808080</color>
+    <color name="background_light">#ffffffff</color>
+    <color name="bright_foreground_light">#ff000000</color>
+    <color name="bright_foreground_light_inverse">#ffffffff</color>
+    <color name="bright_foreground_light_disabled">#80000000</color>
+    <color name="dim_foreground_light">#ff323232</color>
+    <color name="dim_foreground_light_disabled">#80323232</color>
+    <color name="dim_foreground_light_inverse">#ffbebebe</color>
+    <color name="dim_foreground_light_inverse_disabled">#80bebebe</color>
+    <color name="hint_foreground_light">#ff808080</color>
+    <color name="lighter_gray">#ffdddddd</color>
+    <color name="darker_gray">#ffaaaaaa</color>
+    <color name="perms_dangerous_grp_color">#ff80d6de</color>
+    <color name="perms_dangerous_perm_color">#ff3b5998</color>
+    <color name="shadow">#cc222222</color>
+    <color name="launcher_glow_pressed">#ffffb600</color>
+    <color name="launcher_glow_focused">#ffff8a12</color>
+</resources>

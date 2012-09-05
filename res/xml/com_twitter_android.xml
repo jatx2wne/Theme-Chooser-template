@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/appwidget_bg">@drawable/appwidget_bg</item>
+    <item name="drawable/appwidget_bg_focus">@drawable/appwidget_bg_focus</item>
+    <item name="drawable/appwidget_bg_press">@drawable/appwidget_bg_press</item>
+    <item name="drawable/appwidget_small_bg_default">@drawable/appwidget_bg</item>
+    <item name="drawable/appwidget_small_bg_pressed">@drawable/appwidget_bg_press</item>
+    <item name="drawable/appwidget_small_bg_selected">@drawable/appwidget_bg_focus</item>
+    <item name="drawable/appwidget_top_header">@drawable/com_twitter_android_appwidget_top_header</item>
+    <item name="drawable/appwidget_twitter_logo_default">@drawable/com_twitter_android_appwidget_twitter_logo_default</item>
+    <item name="drawable/appwidget_twitter_logo_pressed">@drawable/com_twitter_android_appwidget_twitter_logo_pressed</item>
+    <item name="drawable/appwidget_twitter_logo_selected">@drawable/com_twitter_android_appwidget_twitter_logo_selected</item>
+    <item name="color/text_color">@color/gray</item>
+    <item name="color/gray_color">@color/black</item>
+    <item name="drawable/ic_launcher_twitter">@drawable/com_twitter_android_ic_launcher_twitter</item>
+<item name="drawable/timeline_gap_background">@drawable/com_twitter_android_timeline_gap_background</item>
+<item name="drawable/tab_bar_item_background_focused">@drawable/frameworks_res_btn_default_focused</item>
+<item name="drawable/ic_tab_lists_default">@drawable/com_twitter_android_ic_tab_lists_default</item>
+<item name="drawable/btn_sign_up_pressed">@drawable/frameworks_res_btn_default_pressed</item>
+<item name="drawable/btn_check_buttonless_off">@drawable/com_google_android_gm_btn_check_buttonless_off</item>
+<item name="drawable/ic_tab_profile_default">@drawable/com_twitter_android_ic_tab_profile_default</item>
+<item name="drawable/twitter_logo">@drawable/com_twitter_android_twitter_logo</item>
+<item name="drawable/button_bg_focused">@drawable/frameworks_res_bn-ut__focused</item>
+<item name="drawable/com_twitter_android_ic_tab_dms_default">@drawable/com_twitter_android_ic_tab_dms_default</item>
+<item name="drawable/list_selector_background_focus">@drawable/frameworks_res_list_selector_background_focus</item>
+<item name="drawable/tab_bar_background">@drawable/com_twitter_android_tab_bar_background</item>
+<item name="drawable/button_bg_default">@drawable/frameworks_res_btn_default</item>
+<item name="drawable/tab_bar_item_background_selected">@drawable/frameworks_res_btn_default_normal</item>
+<item name="drawable/btn_sign_in_default">@drawable/com_android_twitter_btn_sign_in_default</item>
+<item name="drawable/twitter_account">@drawable/com_twitter_android_twitter_account</item>
+<item name="drawable/tab_bar_item_background_pressed">@drawable/frameworks_res_btn_default_pressed</item>
+<item name="drawable/nav_background">@drawable/com_twitter_android_nav_background</item>
+<item name="drawable/ic_menu_edit_list">@drawable/com_twitter_android_ic_menu_edit_list</item>
+<item name="drawable/btn_sign_in_pressed">@drawable/frameworks_res_btn_default_pressed</item>
+<item name="drawable/ic_tab_nearby_default">@drawable/com_twitter_android_ic_tab_nearby_default</item>
+<item name="drawable/button_bg_pressed">@drawable/frameworks_res_btn_default_pressed</item>
+<item name="drawable/twitter_account_small">@drawable/com_twitter_android_twitter_account_small</item>
+<item name="drawable/btn_sign_up_default">@drawable/frameworks_res_btn_default</item>
+<item name="drawable/ic_menu_logout">@drawable/com_twitter_android_ic_menu_logout</item>
+<item name="drawable/tab_bar_item_background_default">@drawable/frameworks_res_btn_default_pressed</item>
+<item name="drawable/ic_menu_delete_list">@drawable/com_twitter_android_ic_menu_delete_list</item>
+<item name="drawable/ic_tab_timeline_default">@drawable/com_twitter_android_ic_tab_timeline_default</item>
+<item name="drawable/ic_menu_my_profile">@drawable/com_twitter_android_ic_menu_my_profile</item>
+<item name="drawable/ic_tab_mentions_default">@drawable/com_twitter_android_ic_tab_mentions_default</item>
+<item name="drawable/button_bg_disabled">@drawable/frameworks_res_btn_default_disabled</item>
+<item name="drawable/list_selector_background_pressed">@drawable/frameworks_res_list_selector_background_pressed</item>
+<item name="drawable/btn_check_buttonless_on">@drawable/com_google_android_gm_btn_check_buttonless_on</item>
+<item name="drawable/ic_tab_users_default">@drawable/com_twitter_android_ic_tab_users_default</item>
+<item name="drawable/ic_menu_home">@drawable/com_twitter_android_ic_menu_home</item>
+</resource-redirections>
+
+

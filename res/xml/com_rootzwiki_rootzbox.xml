@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="mipmap/ic_launcher_rootzbox">@drawable/rootzbox</item>
+</resource-redirections>
