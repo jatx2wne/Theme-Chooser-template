@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+<item name="drawable/stat_notify_alarm">@drawable/desk_clock_stat_notify_alarm</item>
+<item name="drawable/dialog_divider_horizontal_light">@drawable/desk_clock_dialog_divider_horizontal_light</item>
+<item name="drawable/appwidget_clock_minute">@drawable/desk_clock_appwidget_clock_minute</item>
+<item name="drawable/appwidget_clock_hour">@drawable/desk_clock_appwidget_clock_hour</item>
+<item name="drawable/appwidget_clock_dial">@drawable/desk_clock_appwidget_clock_dial</item>
+<item name="drawable/alarm_alert_fullscreen_bg">@drawable/desk_clock_alarm_alert_fullscreen_bg</item>
+</resource-redirections>

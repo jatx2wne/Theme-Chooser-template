@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="applytheme">Apply Theme</string>
+	<string name="email">Email me</string>
+	<string name="weatherpanel_slash">/</string>
+	<string name="accessibility_settings_button">System settings.</string>
+	<string name="accessibility_clear_all">Clear all notifications.</string>
+	<string name="status_bar_no_notifications_title">No notifications</string>
+	<string name="app_name">template</string>
+	<string name="theme_name">template</string>
+	<string name="style_appearance_name">template</string>
+	<string name="author">Jatx2wne</string>
+	<string name="copyright">Jatx2wne</string>
+	<string name="apply">Apply Wallpaper</string>
+	<string name="theme_title_text">template</string>
+	<string name="theme_desc_text">template</string>
+
+<!--apex-->
+    <!-- Basic theme information -->
+    <string name="theme_title">template</string>
+    <string name="developer_name">Jatx2wne</string>
+    <!-- This (optional) link will appear at the end of the theme description -->
+    <string name="developer_link"></string>
+    <string name="theme_description">template.\n\nThis is a tmplate icon set for use with theme engine theme.\n\nEmail: youremailhere.com</string>
+
+    <!-- Theme settings -->
+    <bool name="config_iconpack">true</bool>
+    <bool name="config_apexskin">true</bool>
+
+    <!-- The feature graphic will appear above the theme description -->
+    <string name="theme_feature">feature</string>
+
+    <!-- Each theme may have up to 5 preview images
+    <string name="theme_preview1">preview1</string>
+    <string name="theme_preview2">preview2</string>-->
+<!--apex-->
+
+<!--adw-->
+<!-- Theme specific appearance settings -->
+<color name="bubble_color">#b2191919</color>
+<color name="drawer_text_color">#FFFFFFFF</color>
+<integer name="bubble_radius">8</integer>
+<bool name="use_drawer_icons_bg">false</bool>
+<color name="desktop_indicator_color">#46586991</color>
+<!-- ADWSettings theme config  -->
+<bool name="config_uiABBg">false</bool>
+<integer name="config_highlights_color">0xffffb600</integer>
+<integer name="config_highlights_color_focus">0xffff8a12</integer>
+<bool name="config_new_selectors">false</bool>
+<integer name="config_drawer_color">0xff000000</integer>
+<bool name="config_drawerLabels">true</bool>
+<bool name="config_fadeDrawerLabels">false</bool>
+<bool name="config_desktop_indicator">false</bool>
+<!-- 1=top dots, 2=top slider, 3=bottom slider -->
+<string name="config_desktop_indicator_type">1</string>
+<!-- config_ab_scalefactor is a float value between 0.1 and 0.8. Set here the default .X (-1, 6 will become 7) -->
+<integer name="config_ab_scale_factor">6</integer>
+<!-- Force the theme to use an specific dock style -->
+<!--  0=None, 1=3buttons, 2=5buttons, 3=1button -->
+<string name="main_dock_style">2</string>
+<!-- remove this line if you don't want it to show -->
+<string name="authorName">jatx2wne</string>
+<!-- remove this line if you don't want the market link -->
+<string name="developerName">jatx2wne</string>
+<!-- remove this line if you don't have one -->
+<string name="authorLink">http://rootzwiki.com/user/248-jatx2wne/</string>
+<bool name="widget_calendar_calendarview_day_drawborders">false</bool>
+<!--adw-->
+</resources>

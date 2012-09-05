@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+<item name="drawable/ic_action_search">@drawable/com_baked_romcontrol_ic_action_search</item>
+<item name="drawable/ic_empty">@drawable/com_baked_romcontrol_ic_empty</item>
+<item name="drawable/ic_lockscreen_phone">@drawable/com_baked_romcontrol_ic_lockscreen_phone</item>
+<item name="drawable/ic_lockscreen_sms">@drawable/com_baked_romcontrol_ic_lockscreen_sms</item>
+<item name="drawable/ic_lockscreen_soundon">@drawable/com_baked_romcontrol_ic_lockscreen_soundon</item>
+<item name="drawable/ic_lockscreen_unlock">@drawable/com_baked_romcontrol_ic_lockscreen_unlock</item>
+<item name="drawable/ic_menu_save">@drawable/com_baked_romcontrol_ic_menu_save</item>
+<item name="drawable/ic_null">@drawable/com_baked_romcontrol_ic_null</item>
+<item name="drawable/ic_rom_control">@drawable/com_baked_romcontrol_ic_rom_control</item>
+<item name="drawable/ic_rom_control_battery">@drawable/com_baked_romcontrol_ic_rom_control_battery</item>
+<item name="drawable/ic_rom_control_calendar">@drawable/com_baked_romcontrol_ic_rom_control_calendar</item>
+<item name="drawable/ic_rom_control_clock">@drawable/com_baked_romcontrol_ic_rom_control_clock</item>
+<item name="drawable/ic_rom_control_general">@drawable/com_baked_romcontrol_ic_rom_control_general</item>
+<item name="drawable/ic_rom_control_lockscreen_extra">@drawable/com_baked_romcontrol_ic_rom_control_lockscreen_extra</item>
+<item name="drawable/ic_rom_control_lockscreen_target">@drawable/com_baked_romcontrol_ic_rom_control_lockscreen_target</item>
+<item name="drawable/ic_rom_control_navigation_bar">@drawable/com_baked_romcontrol_ic_rom_control_navigation_bar</item>
+<item name="drawable/ic_rom_control_powerwidget">@drawable/com_baked_romcontrol_ic_rom_control_powerwidget</item>
+<item name="drawable/ic_rom_control_power_menu">@drawable/com_baked_romcontrol_ic_rom_control_power_menu</item>
+<item name="drawable/ic_rom_control_sound">@drawable/com_baked_romcontrol_ic_rom_control_sound</item>
+<item name="drawable/ic_rom_control_toggles">@drawable/com_baked_romcontrol_ic_rom_control_toggles</item>
+<item name="drawable/ic_rom_control_weather">@drawable/com_baked_romcontrol_ic_rom_control_weather</item>
+<item name="drawable/ic_settings_backup">@drawable/com_baked_romcontrol_ic_settings_backup</item>
+<item name="drawable/ic_sysbar_back">@drawable/com_baked_romcontrol_ic_sysbar_back</item>
+<item name="drawable/ic_sysbar_home">@drawable/com_baked_romcontrol_ic_sysbar_home</item>
+<item name="drawable/ic_sysbar_kill">@drawable/com_baked_romcontrol_ic_sysbar_kill</item>
+<item name="drawable/ic_sysbar_killtask">@drawable/com_baked_romcontrol_ic_sysbar_killtask</item>
+<item name="drawable/ic_sysbar_menu_big">@drawable/com_baked_romcontrol_ic_sysbar_menu_big</item>
+<item name="drawable/ic_sysbar_null">@drawable/com_baked_romcontrol_ic_sysbar_null</item>
+<item name="drawable/ic_sysbar_power">@drawable/com_baked_romcontrol_ic_sysbar_power</item>
+<item name="drawable/ic_sysbar_recent">@drawable/com_baked_romcontrol_ic_sysbar_recent</item>
+<item name="drawable/ic_sysbar_search">@drawable/com_baked_romcontrol_ic_sysbar_search</item>
+</resource-redirections>

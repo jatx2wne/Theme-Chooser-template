@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/icon">@drawable/google_plus</item>
+    <item name="drawable/realtimechat_launcher_icon">@drawable/google_messanger_plus</item>
+</resource-redirections>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+        <item name="drawable/widgetframe_4x1_large">@drawable/appwidget_frame_4x1_large</item>
+        <item name="drawable/widget_innerframe">@drawable/com_bamnetworks_mobile_android_gameday_atbat_widget_innerframe</item>
+        <item name="drawable/icon">@drawable/atbat</item>
+</resource-redirections>
+
+

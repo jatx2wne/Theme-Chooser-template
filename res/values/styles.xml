@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <style name="template" parent="@android:style/Theme" />
+<!-- new -->
+
+<!--calendar-->
+    <style name="CalendarTheme" parent="android:Theme.Holo.Light">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="CalendarTheme.WithActionBar" parent="android:Theme.Holo.Light">
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:windowActionBar">true</item>
+        <item name="android:windowBackground">@color/background_color</item>
+        <item name="android:actionBarStyle">@style/CalendarActionBarStyle</item>
+        <item name="android:endYear">2036</item>
+        <item name="android:startYear">1970</item>
+    </style>
+
+    <style name="CalendarActionBarStyle" parent="android:style/Widget.Holo.Light.ActionBar.Solid">
+        <item name="android:displayOptions">showCustom</item>
+    </style>
+<!--calendar-->
+
+<!--contacts-->
+
+<!--/contacts-->
+
+<!--gmail-->
+    <style name="ListViewWhiteCustom" parent="@android:style/Widget.Holo.Light.ListView" />
+    <style name="LightNoTitleBarTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:listViewWhiteStyle">@android:style/Widget.ListView.White</item>
+    </style>
+    <style name="ComposeTheme" parent="@android:style/Theme.Holo.Light" />
+    <style name="GmailHoloTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:listViewWhiteStyle">@style/ListViewWhiteCustom</item>
+    </style>
+    <style name="ShortcutWidgetTheme" parent="@android:style/Theme.Holo.Light.DialogWhenLarge" />
+    <style name="ComposeFieldLayout" parent="@android:style/Widget.Holo.Light.EditText">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingTop">0.0dip</item>
+        <item name="android:focusable">false</item>
+        <item name="android:focusableInTouchMode">false</item>
+        <item name="android:addStatesFromChildren">true</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="ComposeFieldLinearLayout" parent="@android:style/Widget.Holo.Light.EditText">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:paddingLeft">0.0dip</item>
+        <item name="android:paddingRight">0.0dip</item>
+        <item name="android:focusable">false</item>
+        <item name="android:focusableInTouchMode">false</item>
+        <item name="android:clickable">true</item>
+        <item name="android:addStatesFromChildren">true</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">48.0dip</item>
+    </style>
+<!--gmail-->
+
+<!--email-->
+    <style name="EmailTheme" parent="@android:style/Theme.Holo.Wallpaper"/>
+    <style name="EmailTheme" parent="@android:style/Theme.Holo.Light">
+    </style>
+
+    <style name="ThemeNoTitleBar" parent="android:Theme.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="message_details_value">
+        <item name="android:textSize">14dip</item>
+        <item name="android:textColor">#ff808080</item>
+        <item name="android:singleLine">false</item>
+        <item name="android:lineSpacingMultiplier">1.5</item>
+    </style>
+
+    <style name="message_details_label" parent="message_details_value">
+        <item name="android:textStyle">bold</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_marginRight">8dp</item>
+        <item name="android:layout_marginLeft">8dp</item>
+    </style>
+<!--email-->
+
+<!--market-->
+    <style name="com_android_vending_BaseText" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/com_android_vending_content_primary_size</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="com_android_vending_MyAppsHeaderText">
+        <item name="android:textSize">@dimen/com_android_vending_content_primary_size</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="com_android_vending_ContentEntryTitle" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/com_android_vending_content_entry_medium_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:paddingLeft">3.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:singleLine">false</item>
+        <item name="android:lineSpacingExtra">0.0sp</item>
+    </style>
+    <style name="com_android_vending_ContentEntrySubtitle" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/com_android_vending_content_entry_small_size</item>
+        <item name="android:textColor">@color/grey</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:paddingLeft">3.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="com_android_vending_DetailsPage_SummaryText">
+        <item name="android:textSize">@dimen/com_android_vending_content_secondary_size</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="com_android_vending_DetailsPage_FooterButton">
+        <item name="android:textSize">@dimen/com_android_vending_content_secondary_size</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:background">@drawable/com_android_vending_details_page_more_button</item>
+        <item name="android:paddingLeft">12.0dip</item>
+        <item name="android:paddingTop">4.0dip</item>
+        <item name="android:paddingRight">12.0dip</item>
+        <item name="android:paddingBottom">4.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:drawablePadding">12.0dip</item>
+    </style>
+<!--market-->
+
+<!--music-->
+    <style name="RootTheme" parent="@android:style/Theme" />
+    <!--<style name="NoTitleBarNoShadowTheme" parent="@android:style/Theme.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>-->
+    <style name="DialogTheme" parent="@android:style/Theme.Dialog" />
+<!--music-->
+
+<!--phone-->
+    <style name="Theme.InCallScreen" parent="@android:style/Theme.Holo.NoActionBar">
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+<!--phone-->
+    
+<!--systemui-->
+    <style name="Text">
+        <item name="android:textColor">@color/template</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Title" parent="@*android:style/TextAppearance.StatusBar">
+        <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+    </style>
+
+    <style name="TextAppearance.StatusBar.SystemPanel" parent="@*android:style/TextAppearance.StatusBar">
+        <item name="android:textAppearance">?android:attr/textAppearance</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ff808080</item>
+    </style>
+
+    <style name="TextAppearance.StatusBar.TextButton"
+        parent="@*android:style/TextAppearance.StatusBar">
+        <item name="android:textAppearance">?android:attr/textAppearance</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#FFffffff</item>
+    </style>
+
+    <style name="TextAppearance.StatusBar.Date" parent="@*android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@android:color/holo_blue_light</item>
+    </style>
+
+    <style name="TextAppearance.StatusBar.Clock" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@android:color/holo_blue_light</item>
+    </style>
+
+    <style name="TextAppearance.StatusBar.Battery" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@android:color/holo_blue_light</item>
+    </style>
+
+    <style name="TextAppearance.StatusBar.Expanded" parent="@style/TextAppearance.StatusBar" />
+
+    <style name="TextAppearance.StatusBar.Expanded.Clock" parent="@style/TextAppearance.StatusBar.Expanded">
+        <item name="android:textSize">32.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+    <style name="TextAppearance.StatusBar.Expanded.Date" parent="@style/TextAppearance.StatusBar.Expanded">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffcccccc</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+<!--systemui-->
+
+<!--framework-->
+    <style name="TextAppearance">
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorHighlight">?android:textColorHighlight</item>
+        <item name="android:textColorHint">?android:textColorHint</item>
+        <item name="android:textColorLink">?android:textColorLink</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="TextAppearance.StatusBar">
+        <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+    </style>
+
+    <style name="TextAppearance.StatusBar.EventContent">
+        <item name="android:textColor">#ff999999</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="TextAppearance.StatusBar.EventContent.Title">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.StatusBar.EventContent.Line2" parent="@style/TextAppearance.StatusBar.EventContent">
+        <item name="@android:textSize">@dimen/notification_subtext_size</item>
+    </style>
+
+    <style name="TextAppearance.StatusBar.EventContent.Info" parent="@style/TextAppearance.StatusBar.EventContent">
+        <item name="@android:textSize">@dimen/notification_subtext_size</item>
+        <item name="@android:textColor">#ff999999</item>
+    </style>
+
+    <style name="TextAppearance.StatusBar.EventContent.Time" parent="@style/TextAppearance.StatusBar.EventContent">
+        <item name="@android:textSize">@dimen/notification_subtext_size</item>
+        <item name="@android:textColor">#ff999999</item>
+    </style>
+
+    <style name="TextAppearance.StatusBar.EventContent.Emphasis" parent="@style/TextAppearance.StatusBar.EventContent">
+        <item name="@android:textColor">#ffcccccc</item>
+    </style>
+
+    <style name="TextAppearance.StatusBar.Ticker">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+<!--framework-->
+</resources>

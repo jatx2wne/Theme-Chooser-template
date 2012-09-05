@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<!--general-->
+    <drawable name="dark_grey">@color/dark_grey</drawable>
+    <drawable name="semi_transparent_bg">#80000000</drawable>
+<!-- systemui -->
+    <drawable name="com_android_systemui_notification_number_text_color">#ffffffff</drawable>
+    <drawable name="com_android_systemui_notification_item_background_color">@drawable/frameworks_res_notification_bg_normal</drawable>
+    <drawable name="com_android_systemui_notification_item_background_color_pressed">#ffffffff</drawable>
+    <drawable name="com_android_systemui_ticker_background_color">#ff1d1d1d</drawable>
+    <drawable name="com_android_systemui_status_bar_recents_background_solid">#ffffffff</drawable>
+    <drawable name="com_android_systemui_status_bar_recents_app_thumbnail_background">#80ffffff</drawable>
+    <drawable name="com_android_systemui_status_bar_notification_row_background_color">@drawable/frameworks_res_notification_bg_normal</drawable>
+    <drawable name="com_android_systemui_notification_header_bg">#ff000000</drawable>
+    <drawable name="com_android_systemui_notification_tracking_bg">#80000000</drawable>
+    <drawable name="com_android_systemui_recents_callout_line">#99ffffff</drawable>
+    <drawable name="com_android_systemui_notification_item_background_legacy_color">#ffaaaaaa</drawable>
+    <drawable name="com_android_systemui_status_bar_background">@drawable/com_android_systemui_statusbar_bg</drawable>
+    <drawable name="com_android_systemui_nav_bar_bg">@drawable/com_android_systemui_navbar_bg</drawable>
+<!-- systemui -->
+
+<!-- framework -->
+    <item type="drawable" name="frameworks_res_notification_template_icon_bg">#3333b5e5</item>
+    <item type="drawable" name="frameworks_res_notification_template_icon_low_bg">#0cffffff</item>
+<!-- framework -->
+
+<!-- Old  -->
+
+    <item type="drawable" name="screen_background_light">#ffffffff</item>
+    <item type="drawable" name="screen_background_dark">#ff000000</item>
+    <item type="drawable" name="status_bar_closed_default_background">#ff000000</item>
+    <item type="drawable" name="status_bar_opened_default_background">#ff000000</item>
+    <item type="drawable" name="search_bar_default_color">#ff000000</item>
+    <item type="drawable" name="safe_mode_background">#60000000</item>
+    <item type="drawable" name="screen_background_dark_transparent">#80000000</item>
+    <item type="drawable" name="screen_background_light_transparent">#80ffffff</item>
+    <item type="drawable" name="input_method_fullscreen_background">#fff9f9f9</item>
+    <item type="drawable" name="selected_day_background">#ff3b5998</item>
+    <item type="drawable" name="facebook_widget_light_text">#ffffffff</item>
+</resources>

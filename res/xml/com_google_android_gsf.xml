@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+<item name="drawable/stat_notify_talk_text">@drawable/com_google_android_gsf_stat_notify_talk_text</item>
+</resource-redirections>
