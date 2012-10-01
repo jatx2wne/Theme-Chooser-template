@@ -13,11 +13,19 @@
 <item name="color/widget_subject_text_color_unread">@color/com_android_mms_widget_subject_text_color_unread</item>
 
 <!--xmls-->
+<<<<<<< HEAD
 <item name="drawable/gradient_bg_mms_widget_holo">@drawable/appwidget_gradient_holo</item>
 <item name="drawable/gradient_bg_widget_holo">@drawable/appwidget_gradient_holo</item>
 <item name="drawable/hairline_left">@drawable/com_android_mms_hairline_left</item>
 <item name="drawable/hairline_right">@drawable/com_android_mms_hairline_right</item>
 <item name="drawable/header_bg_mms_widget_holo">@drawable/appwidget_header_holo</item>
+=======
+<item name="drawable/gradient_bg_mms_widget_holo">@drawable/com_android_mms_gradient_bg_mms_widget_holo</item>
+<item name="drawable/gradient_bg_widget_holo">@drawable/com_android_mms_gradient_bg_widget_holo</item>
+<item name="drawable/hairline_left">@drawable/com_android_mms_hairline_left</item>
+<item name="drawable/hairline_right">@drawable/com_android_mms_hairline_right</item>
+<item name="drawable/header_bg_mms_widget_holo">@drawable/com_android_mms_header_bg_mms_widget_holo</item>
+>>>>>>> 751cee9ec97739393aeac24bca782e8b017c03c2
 <item name="drawable/ic_attachment_universal_small">@drawable/com_android_mms_ic_attachment_universal_small</item>
 <item name="drawable/ic_attach_audio_holo_light">@drawable/com_android_mms_ic_attach_audio_holo_light</item>
 <item name="drawable/ic_attach_capture_audio_holo_light">@drawable/com_android_mms_ic_attach_capture_audio_holo_light</item>
@@ -69,7 +77,11 @@
 <item name="drawable/ic_sms_mms_not_delivered">@drawable/com_android_mms_ic_sms_mms_not_delivered</item>
 <item name="drawable/ic_sms_mms_pending">@drawable/com_android_mms_ic_sms_mms_pending</item>
 <item name="drawable/list_activated_holo">@drawable/com_android_mms_list_activated_holo</item>
+<<<<<<< HEAD
 <item name="drawable/list_div_top_btm_mms_widget_holo">@drawable/appwidget_btm_holo</item>
+=======
+<item name="drawable/list_div_top_btm_mms_widget_holo">@drawable/com_android_mms_list_div_top_btm_mms_widget_holo</item>
+>>>>>>> 751cee9ec97739393aeac24bca782e8b017c03c2
 <item name="drawable/list_focused_holo">@drawable/com_android_mms_list_focused_holo</item>
 <item name="drawable/list_pressed_holo">@drawable/com_android_mms_list_pressed_holo</item>
 <item name="drawable/list_pressed_holo_light">@drawable/com_android_mms_list_pressed_holo_light</item>
