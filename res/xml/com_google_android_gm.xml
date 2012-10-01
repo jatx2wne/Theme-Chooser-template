@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource-redirections>
-<<<<<<< HEAD
 <!--xmls-->
-=======
->>>>>>> 751cee9ec97739393aeac24bca782e8b017c03c2
     <item name="style/ListViewWhiteCustom">@style/ListViewWhiteCustom</item>
     <item name="style/LightNoTitleBarTheme">@style/LightNoTitleBarTheme</item>
     <item name="style/ComposeFieldLinearLayout">@style/ComposeFieldLinearLayout</item>
@@ -11,10 +8,7 @@
     <item name="style/GmailHoloTheme">@style/GmailHoloTheme</item>
     <item name="style/ShortcutWidgetTheme">@style/ShortcutWidgetTheme</item>
     <item name="style/ComposeFieldLayout">@style/ComposeFieldLayout</item>
-<<<<<<< HEAD
-=======
-<!--xmls
->>>>>>> 751cee9ec97739393aeac24bca782e8b017c03c2
+<!--xmls-->
 <item name="color/black_text">@color/com_google_android_gm_black_text</item>
 <item name="color/text_color_primary_invertible">@color/com_google_android_gm_text_color_primary_invertible</item>
 <item name="drawable/attachment_background">@drawable/com_google_android_gm_attachment_background</item>
@@ -23,7 +17,6 @@
 <item name="color/quoted_text">@color/com_google_android_gm_quoted_text</item>
 <item name="color/drafts">@color/com_google_android_gm_drafts</item>
 <item name="color/unread_conversation_subject_text">@color/com_google_android_gm_unread_conversation_subject_text</item>
-<<<<<<< HEAD
 <item name="color/default_text_color">@color/com_google_android_gm_default_text_color</item>
 <item name="color/light_text_color">@color/com_google_android_gm_light_text_color</item>
 <item name="color/label_disabled_drop_target_text_color">@color/com_google_android_gm_label_disabled_drop_target_text_color</item>
@@ -32,17 +25,15 @@
 <item name="color/widget_unread_count_color">@color/com_google_android_gm_widget_unread_count_color</item>
 <item name="color/accountInfoColor">@color/com_google_android_gm_accountInfoColor</item>
 <item name="color/white">@color/com_google_android_gm_white</item>
-=======
--->
-<item name="color/default_text_color">@color/com_google_android_gm_default_text_color</item><!--
+
+<item name="color/default_text_color">@color/com_google_android_gm_default_text_color</item>
 <item name="color/light_text_color">@color/com_google_android_gm_light_text_color</item>
 <item name="color/label_disabled_drop_target_text_color">@color/com_google_android_gm_label_disabled_drop_target_text_color</item>
 <item name="color/widget_label_shadow_color">@color/com_google_android_gm_widget_label_shadow_color</item>
---><item name="color/widget_account_color">@color/com_google_android_gm_widget_account_color</item>
+<item name="color/widget_account_color">@color/com_google_android_gm_widget_account_color</item>
 <item name="color/widget_unread_count_color">@color/com_google_android_gm_widget_unread_count_color</item>
 <item name="color/accountInfoColor">@color/com_google_android_gm_accountInfoColor</item>
-<item name="color/white">@color/com_google_android_gm_white</item><!--
->>>>>>> 751cee9ec97739393aeac24bca782e8b017c03c2
+<item name="color/white">@color/com_google_android_gm_white</item>
 <item name="color/fadedConversationHeader">@color/com_google_android_gm_fadedConversationHeader</item>
 <item name="color/fadedActivatedConversationHeader">@color/com_google_android_gm_fadedActivatedConversationHeader</item>
 <item name="color/fadedWebView">@color/com_google_android_gm_fadedWebView</item>
@@ -56,28 +47,21 @@
 <item name="color/compose_label_text">@color/com_google_android_gm_compose_label_text</item>
 <item name="color/subject_text_color">@color/com_google_android_gm_subject_text_color</item>
 <item name="color/quotedTextColor">@color/com_google_android_gm_quotedTextColor</item>
-<<<<<<< HEAD
 <item name="color/subject_text_color_unread">@color/com_google_android_gm_subject_text_color_unread</item>
-=======
---><item name="color/subject_text_color_unread">@color/com_google_android_gm_subject_text_color_unread</item>
->>>>>>> 751cee9ec97739393aeac24bca782e8b017c03c2
+<item name="color/subject_text_color_unread">@color/com_google_android_gm_subject_text_color_unread</item>
 <item name="color/snippet_text_color_unread">@color/com_google_android_gm_snippet_text_color_unread</item>
 <item name="color/senders_text_color_unread">@color/com_google_android_gm_senders_text_color_unread</item>
 <item name="color/subject_text_color_read">@color/com_google_android_gm_subject_text_color_read</item>
 <item name="color/snippet_text_color_read">@color/com_google_android_gm_snippet_text_color_read</item>
 <item name="color/senders_text_color_read">@color/com_google_android_gm_senders_text_color_read</item>
 <item name="color/date_text_color_unread">@color/com_google_android_gm_date_text_color_unread</item>
-<<<<<<< HEAD
+<item name="color/date_text_color_read">@color/com_google_android_gm_date_text_color_read</item>
+<item name="color/label_list_heading_text_color">@color/com_google_android_gm_label_list_heading_text_color</item>
+<item name="color/actionbar_secondary">@color/com_google_android_gm_actionbar_secondary</item>
 <item name="color/date_text_color_read">@color/com_google_android_gm_date_text_color_read</item>
 <item name="color/label_list_heading_text_color">@color/com_google_android_gm_label_list_heading_text_color</item>
 <item name="color/actionbar_secondary">@color/com_google_android_gm_actionbar_secondary</item>
 <!--xmls-->
-=======
-<item name="color/date_text_color_read">@color/com_google_android_gm_date_text_color_read</item><!--
-<item name="color/label_list_heading_text_color">@color/com_google_android_gm_label_list_heading_text_color</item>
---><item name="color/actionbar_secondary">@color/com_google_android_gm_actionbar_secondary</item><!--
-xmls-->
->>>>>>> 751cee9ec97739393aeac24bca782e8b017c03c2
 
 <item name="mipmap/ic_launcher_mail">@drawable/google_mail</item>
 <item name="drawable/ab_bottom_solid_light_holo">@drawable/com_google_android_gm_ab_bottom_solid_light_holo</item>
@@ -98,13 +82,10 @@ xmls-->
 <item name="drawable/chip_background">@drawable/com_google_android_gm_chip_background</item>
 <item name="drawable/chip_background_invalid">@drawable/com_google_android_gm_chip_background_invalid</item>
 <item name="drawable/chip_background_selected">@drawable/com_google_android_gm_chip_background_selected</item>
-<<<<<<< HEAD
 <item name="drawable/gradient_bg_gmail_widget_holo">@drawable/appwidget_gradient_holo</item>
 <item name="drawable/header_bg_gmail_widget_holo">@drawable/appwidget_header_holo</item>
-=======
 <item name="drawable/gradient_bg_gmail_widget_holo">@drawable/com_google_android_gm_gradient_bg_gmail_widget_holo</item>
 <item name="drawable/header_bg_gmail_widget_holo">@drawable/com_google_android_gm_header_bg_gmail_widget_holo</item>
->>>>>>> 751cee9ec97739393aeac24bca782e8b017c03c2
 <item name="drawable/header_convo_view_sender_bg_holo">@drawable/com_google_android_gm_header_convo_view_sender_bg_holo</item>
 <item name="drawable/header_convo_view_thread_bg_holo">@drawable/com_google_android_gm_header_convo_view_thread_bg_holo</item>
 <item name="drawable/ic_add_label_holo_light">@drawable/com_google_android_gm_ic_add_label_holo_light</item>
@@ -150,11 +131,8 @@ xmls-->
 <item name="drawable/ic_spam_normal_holo_light">@drawable/com_google_android_gm_ic_spam_normal_holo_light</item>
 <item name="drawable/label_bg_holo_light">@drawable/com_google_android_gm_label_bg_holo_light</item>
 <item name="drawable/list_activated_holo">@drawable/com_google_android_gm_list_activated_holo</item>
-<<<<<<< HEAD
 <item name="drawable/list_div_top_btm_gmail_widget_holo">@drawable/appwidget_btm_holo</item>
-=======
 <item name="drawable/list_div_top_btm_gmail_widget_holo">@drawable/com_google_android_gm_list_div_top_btm_gmail_widget_holo</item>
->>>>>>> 751cee9ec97739393aeac24bca782e8b017c03c2
 <item name="drawable/list_focused_holo">@drawable/com_google_android_gm_list_focused_holo</item>
 <item name="drawable/list_pressed_holo">@drawable/com_google_android_gm_list_pressed_holo</item>
 <item name="drawable/list_read_holo">@drawable/com_google_android_gm_list_read_holo</item>
