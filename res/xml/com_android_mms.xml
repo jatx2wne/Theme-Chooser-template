@@ -11,13 +11,26 @@
 <item name="color/widget_sender_text_color_unread">@color/com_android_mms_widget_sender_text_color_unread</item>
 <item name="color/widget_subject_text_color_read">@color/com_android_mms_widget_subject_text_color_read</item>
 <item name="color/widget_subject_text_color_unread">@color/com_android_mms_widget_subject_text_color_unread</item>
-
+<item name="color/action_bar_button_text_color">@color/com_android_mms_action_bar_button_text_color</item>
+<item name="color/compose_message_edit_text">@color/com_android_mms_compose_message_edit_text</item>
+<item name="color/actionbar_text">@color/com_android_mms_actionbar_text</item>
+<item name="color/delete_thread_dialog">@color/com_android_mms_delete_thread_dialog</item>
+<item name="color/delivery_report_header">@color/com_android_mms_delivery_report_header</item>
+<item name="color/delivery_report_recipient">@color/com_android_mms_delivery_report_recipient</item>
+<item name="color/delivery_report_status">@color/com_android_mms_delivery_report_status</item>
+<item name="color/delivery_report_date">@color/com_android_mms_delivery_report_date</item>
+<item name="color/button_text">@color/com_android_mms_button_text</item>
+<item name="color/message_recieved">@color/com_android_mms_message_recieved</item>
+<item name="color/message_sent">@color/com_android_mms_message_sent</item>
+<item name="color/widget_unread_text">@color/com_android_mms_widget_unread_text</item>
+<item name="color/widget_loading">@color/com_android_mms_widget_loading</item>
+<item name="color/background">@color/com_android_mms_background</item>
+<item name="color/darkgray_backgrounds">@color/com_android_mms_darkgray_backgrounds</item>
+<item name="color/dividers">@color/com_android_mms_dividers</item>
+<item name="color/transparent">@color/com_android_mms_transparent</item>
+<item name="style/MmsHoloTheme">@style/MmsHoloTheme</item>
 <!--xmls-->
-<item name="drawable/gradient_bg_mms_widget_holo">@drawable/appwidget_gradient_holo</item>
-<item name="drawable/gradient_bg_widget_holo">@drawable/appwidget_gradient_holo</item>
-<item name="drawable/hairline_left">@drawable/com_android_mms_hairline_left</item>
-<item name="drawable/hairline_right">@drawable/com_android_mms_hairline_right</item>
-<item name="drawable/header_bg_mms_widget_holo">@drawable/appwidget_header_holo</item>
+
 <item name="drawable/gradient_bg_mms_widget_holo">@drawable/com_android_mms_gradient_bg_mms_widget_holo</item>
 <item name="drawable/gradient_bg_widget_holo">@drawable/com_android_mms_gradient_bg_widget_holo</item>
 <item name="drawable/hairline_left">@drawable/com_android_mms_hairline_left</item>
@@ -74,7 +87,6 @@
 <item name="drawable/ic_sms_mms_not_delivered">@drawable/com_android_mms_ic_sms_mms_not_delivered</item>
 <item name="drawable/ic_sms_mms_pending">@drawable/com_android_mms_ic_sms_mms_pending</item>
 <item name="drawable/list_activated_holo">@drawable/com_android_mms_list_activated_holo</item>
-<item name="drawable/list_div_top_btm_mms_widget_holo">@drawable/appwidget_btm_holo</item>
 <item name="drawable/list_div_top_btm_mms_widget_holo">@drawable/com_android_mms_list_div_top_btm_mms_widget_holo</item>
 <item name="drawable/list_focused_holo">@drawable/com_android_mms_list_focused_holo</item>
 <item name="drawable/list_pressed_holo">@drawable/com_android_mms_list_pressed_holo</item>

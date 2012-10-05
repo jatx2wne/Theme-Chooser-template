@@ -3,6 +3,8 @@
 <!--general-->
     <drawable name="dark_grey">@color/dark_grey</drawable>
     <drawable name="semi_transparent_bg">#80000000</drawable>
+    <drawable name="semi_transparent_mms_bg">#804d4d4d</drawable>
+    <drawable name="semi_transparent_white_bg">#80ffffff</drawable>
 <!-- systemui -->
     <drawable name="com_android_systemui_notification_number_text_color">#ffffffff</drawable>
     <drawable name="com_android_systemui_notification_item_background_color">@drawable/frameworks_res_notification_bg_normal</drawable>

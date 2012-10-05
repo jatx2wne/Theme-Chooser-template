@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource-redirections>
+<!-- colors -->
+<item name="color/KVkeyTextColor">@color/com_android_inputmethod_latin_KVkeyTextColor</item>
+<item name="color/KVkeyTextInactivatedColor">@color/com_android_inputmethod_latin_KVkeyTextInactivatedColor</item>
+<item name="color/keyTextInactivatedColor">@color/com_android_inputmethod_latin_keyTextInactivatedColor</item>
+<item name="color/keyHintLetterColor">@color/com_android_inputmethod_latin_keyHintLetterColor</item>
+<item name="color/keyHintLabelColor">@color/com_android_inputmethod_latin_keyHintLabelColor</item>
+<item name="color/keyShiftedLetterHintInactivatedColor">@color/com_android_inputmethod_latin_keyShiftedLetterHintInactivatedColor</item>
+<item name="color/keyShiftedLetterHintActivatedColor">@color/com_android_inputmethod_latin_keyShiftedLetterHintActivatedColor</item>
+<item name="color/keyPreviewTextColor">@color/com_android_inputmethod_latin_keyPreviewTextColor</item>
+<item name="color/shadowColor">@color/com_android_inputmethod_latin_shadowColor</item>
+<item name="color/colorValidTypedWord">@color/com_android_inputmethod_latin_colorValidTypedWord</item>
+<item name="color/colorTypedWord">@color/com_android_inputmethod_latin_colorTypedWord</item>
+<item name="color/colorAutoCorrect">@color/com_android_inputmethod_latin_colorAutoCorrect</item>
+<item name="color/colorSuggested">@color/com_android_inputmethod_latin_colorSuggested</item>
+<!-- colors -->
 <item name="drawable/btn_keyboard_key_dark_active_holo">@drawable/com_android_inputmethod_latin_btn_keyboard_key_dark_active_holo</item>
 <item name="drawable/sym_bkeyboard_shift_locked">@drawable/com_android_inputmethod_latin_sym_bkeyboard_shift_locked</item>
 <item name="drawable/sym_bkeyboard_settings">@drawable/com_android_inputmethod_latin_sym_bkeyboard_settings</item>
