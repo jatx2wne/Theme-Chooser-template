@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource-redirections>
+<item name="drawable/ic_toggledock">@drawable/ic_toggledock</item>
+<item name="drawable/ic_recentapps">@drawable/ic_recentapps</item>
 <item name="drawable/ic_home">@drawable/com_anddoes_launcher_launcher</item>
 <item name="drawable/ic_folder_preview_grid">@drawable/ic_folder_preview_grid</item>
 <item name="drawable/focused_bg">@drawable/focused_bg</item>
 <item name="drawable/ic_launcher_application">@drawable/ic_launcher_application</item>
+<item name="drawable/ic_launcher_appwidget">@drawable/ic_launcher_appwidget</item>
+<item name="drawable/ic_launcher_shortcut">@drawable/ic_launcher_shortcut</item>
 <item name="drawable/ic_home_search_normal_holo">@drawable/ic_home_search_normal_holo</item>
 <item name="drawable/homescreen_blue_strong_holo">@drawable/homescreen_blue_strong_holo</item>
 <item name="drawable/ic_moveto1">@drawable/ic_moveto1</item>
@@ -60,6 +64,7 @@
 <item name="drawable/tab_unselected_holo">@drawable/tab_unselected_holo</item>
 <item name="drawable/ic_launcher_info_normal_holo">@drawable/ic_launcher_info_normal_holo</item>
 <item name="drawable/portal_ring_inner_holo">@drawable/portal_ring_inner_holo</item>
+<item name="drawable/portal_platform_inner_holo">@drawable/portal_ring_inner_holo</item>
 <item name="drawable/ic_launcher_wallpaper">@drawable/ic_launcher_wallpaper</item>
 <item name="drawable/page_hover_right_holo">@drawable/page_hover_right_holo</item>
 <item name="drawable/bg_appwidget_error">@drawable/bg_appwidget_error</item>
@@ -68,6 +73,7 @@
 <item name="drawable/hotseat_scrubber_holo">@drawable/hotseat_scrubber_holo</item>
 <item name="drawable/ic_folder_preview_stack">@drawable/ic_folder_preview_stack</item>
 <item name="drawable/ic_folder_preview_fan">@drawable/ic_folder_preview_fan</item>
+<item name="drawable/ic_folder_preview_platform">@drawable/ic_folder_preview_platform</item>
 <item name="drawable/apps_customize_bg">@drawable/apps_customize_bg</item>
 <item name="drawable/widget_qsb_preview">@drawable/widget_qsb_preview</item>
 <item name="drawable/tab_selected_pressed_holo">@drawable/tab_selected_pressed_holo</item>
