@@ -31,9 +31,9 @@
 <item name="style/MmsHoloTheme">@style/MmsHoloTheme</item>
 <!--xmls-->
 
-<item name="drawable/list_div_top_btm_gmail_widget_holo">@drawable/appwidget_btm_holo</item>
-<item name="drawable/gradient_bg_gmail_widget_holo">@drawable/appwidget_gradient_holo</item>
-<item name="drawable/header_bg_gmail_widget_holo">@drawable/appwidget_header_holo</item>
+<item name="drawable/list_div_top_btm_mms_widget_holo">@drawable/appwidget_btm_holo</item>
+<item name="drawable/gradient_bg_mms_widget_holo">@drawable/appwidget_gradient_holo</item>
+<item name="drawable/header_bg_mms_widget_holo">@drawable/appwidget_header_holo</item>
 <item name="drawable/hairline_left">@drawable/com_android_mms_hairline_left</item>
 <item name="drawable/hairline_right">@drawable/com_android_mms_hairline_right</item>
 <item name="drawable/ic_attachment_universal_small">@drawable/com_android_mms_ic_attachment_universal_small</item>

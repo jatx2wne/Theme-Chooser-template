@@ -26,9 +26,9 @@
 <!--xmls-->
 
 <!--<item name="mipmap/ic_launcher_email">@drawable/email</item>-->
-<item name="drawable/list_div_top_btm_gmail_widget_holo">@drawable/appwidget_btm_holo</item>
-<item name="drawable/gradient_bg_gmail_widget_holo">@drawable/appwidget_gradient_holo</item>
-<item name="drawable/header_bg_gmail_widget_holo">@drawable/appwidget_header_holo</item>
+<item name="drawable/list_div_top_btm_email_widget_holo">@drawable/appwidget_btm_holo</item>
+<item name="drawable/gradient_bg_email_widget_holo">@drawable/appwidget_gradient_holo</item>
+<item name="drawable/header_bg_email_widget_holo">@drawable/appwidget_header_holo</item>
 <item name="drawable/attachment_bg_holo">@drawable/com_android_email_attachment_bg_holo</item>
 <item name="drawable/btn_check_off_normal_holo_light">@drawable/com_android_email_btn_check_off_normal_holo_light</item>
 <item name="drawable/btn_check_on_normal_holo_light">@drawable/com_android_email_btn_check_on_normal_holo_light</item>
