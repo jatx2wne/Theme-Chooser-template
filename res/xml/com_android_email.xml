@@ -26,6 +26,9 @@
 <!--xmls-->
 
 <!--<item name="mipmap/ic_launcher_email">@drawable/email</item>-->
+<item name="drawable/list_div_top_btm_gmail_widget_holo">@drawable/appwidget_btm_holo</item>
+<item name="drawable/gradient_bg_gmail_widget_holo">@drawable/appwidget_gradient_holo</item>
+<item name="drawable/header_bg_gmail_widget_holo">@drawable/appwidget_header_holo</item>
 <item name="drawable/attachment_bg_holo">@drawable/com_android_email_attachment_bg_holo</item>
 <item name="drawable/btn_check_off_normal_holo_light">@drawable/com_android_email_btn_check_off_normal_holo_light</item>
 <item name="drawable/btn_check_on_normal_holo_light">@drawable/com_android_email_btn_check_on_normal_holo_light</item>
@@ -42,10 +45,6 @@
 <item name="drawable/divider_horizontal_holo_light">@drawable/com_android_email_divider_horizontal_holo_light</item>
 <item name="drawable/expander_close_holo_light">@drawable/com_android_email_expander_close_holo_light</item>
 <item name="drawable/expander_open_holo_light">@drawable/com_android_email_expander_open_holo_light</item>
-<item name="drawable/gradient_bg_email_widget_holo">@drawable/appwidget_gradient_holo</item>
-<item name="drawable/header_bg_email_widget_holo">@drawable/appwidget_header_holo</item>
-<item name="drawable/gradient_bg_email_widget_holo">@drawable/com_android_email_gradient_bg_email_widget_holo</item>
-<item name="drawable/header_bg_email_widget_holo">@drawable/com_android_email_header_bg_email_widget_holo</item>
 <item name="drawable/header_convo_view_sender_bg_holo">@drawable/com_android_email_header_convo_view_sender_bg_holo</item>
 <item name="drawable/icon">@drawable/com_android_email_icon</item>
 <item name="drawable/ic_attachment_holo_light">@drawable/com_android_email_ic_attachment_holo_light</item>
@@ -91,8 +90,6 @@
 <item name="drawable/ic_show_images_holo_light">@drawable/com_android_email_ic_show_images_holo_light</item>
 <item name="drawable/ic_spam_normal_holo_light">@drawable/com_android_email_ic_spam_normal_holo_light</item>
 <item name="drawable/list_activated_holo">@drawable/com_android_email_list_activated_holo</item>
-<item name="drawable/list_div_top_btm_email_widget_holo">@drawable/appwidget_btm_holo</item>
-<item name="drawable/list_div_top_btm_email_widget_holo">@drawable/com_android_email_list_div_top_btm_email_widget_holo</item>
 <item name="drawable/list_focused_holo">@drawable/com_android_email_list_focused_holo</item>
 <item name="drawable/list_pressed_holo">@drawable/com_android_email_list_pressed_holo</item>
 <item name="drawable/list_read_holo">@drawable/com_android_email_list_read_holo</item>
