@@ -22,6 +22,7 @@
 <item name="color/month_other_bgcolor">@color/month_other_bgcolor</item>
 <item name="color/month_today_bgcolor">color/month_other_bgcolor</item>
 <item name="color/month_bgcolor">@color/month_bgcolor</item>
+<item name="color/month_selected_week_bgcolor">@color/month_selected_week_bgcolor</item>
 <!--xmls-->
 
     <!--<item name="mipmap/ic_launcher_calendar">@drawable/calendar</item>-->

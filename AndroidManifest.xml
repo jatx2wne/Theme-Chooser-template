@@ -19,11 +19,11 @@
 <manifest
  xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:pluto="http://www.w3.org/2001/pluto.html"
-    package="com.jatx2wne.theme.template"
+    package="com.jatx2wne.template"
     android:hasCode="false"
-    android:versionCode="2" android:versionName="1.1">
+    android:versionCode="1" android:versionName="1.0">
  
-    <uses-sdk android:minSdkVersion="14" />
+    <uses-sdk android:minSdkVersion="7" />
 <!-- Make sure this theme APK only shows up on appropriate devices. -->
     <uses-feature android:name="com.tmobile.software.themes" />
 <application android:label="@string/app_name" android:icon="@drawable/theme_icon" android:hasCode="false">

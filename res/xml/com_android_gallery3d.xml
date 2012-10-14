@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource-redirections>
-    <!--<item name="mipmap/ic_launcher_gallery">@drawable/gallery</item>-->
 <item name="drawable/bg_camera_pattern">@drawable/com_android_gallery3d_bg_camera_pattern</item>
 <item name="drawable/bg_switcher">@drawable/com_android_gallery3d_bg_switcher</item>
 <item name="drawable/bg_vidcontrol">@drawable/com_android_gallery3d_bg_vidcontrol</item>
@@ -45,10 +44,12 @@
 <item name="drawable/ic_indicators_incandescent">@drawable/com_android_gallery3d_ic_indicators_incandescent</item>
 <item name="drawable/ic_indicators_landscape">@drawable/com_android_gallery3d_ic_indicators_landscape</item>
 <item name="drawable/ic_indicators_landscape_flash_auto">@drawable/com_android_gallery3d_ic_indicators_landscape_flash_auto</item>
+<item name="drawable/ic_indicators_landscape_flash_off">@drawable/com_android_gallery3d_ic_indicators_landscape_flash_off</item>
 <item name="drawable/ic_indicators_landscape_flash_on">@drawable/com_android_gallery3d_ic_indicators_landscape_flash_on</item>
 <item name="drawable/ic_indicators_macro">@drawable/com_android_gallery3d_ic_indicators_macro</item>
 <item name="drawable/ic_indicators_scn">@drawable/com_android_gallery3d_ic_indicators_scn</item>
 <item name="drawable/ic_indicators_sunlight">@drawable/com_android_gallery3d_ic_indicators_sunlight</item>
+<item name="drawable/ic_indicators_timer">@drawable/com_android_gallery3d_ic_indicators_timer</item>
 <item name="drawable/ic_menu_cancel_holo_light">@drawable/com_android_gallery3d_ic_menu_cancel_holo_light</item>
 <item name="drawable/ic_menu_done_holo_light">@drawable/com_android_gallery3d_ic_menu_done_holo_light</item>
 <item name="drawable/ic_menu_make_offline">@drawable/com_android_gallery3d_ic_menu_make_offline</item>

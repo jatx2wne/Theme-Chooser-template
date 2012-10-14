@@ -22,6 +22,8 @@
 <item name="drawable/ic_rom_control_signal">@drawable/com_aokp_romcontrol_ic_rom_control_signal</item>
 <item name="drawable/ic_rom_control_toggles">@drawable/com_aokp_romcontrol_ic_rom_control_toggles</item>
 <item name="drawable/ic_rom_control_weather">@drawable/com_aokp_romcontrol_ic_rom_control_weather</item>
+<item name="drawable/ic_rom_control_sound">@drawable/com_aokp_romcontrol_ic_rom_control_sound</item>
+<item name="drawable/ic_rom_control_vibrations">@drawable/com_aokp_romcontrol_ic_rom_control_vibrations</item>
 <item name="drawable/ic_sysbar_back">@drawable/com_aokp_romcontrol_ic_sysbar_back</item>
 <item name="drawable/ic_sysbar_home">@drawable/com_aokp_romcontrol_ic_sysbar_home</item>
 <item name="drawable/ic_sysbar_killtask">@drawable/com_aokp_romcontrol_ic_sysbar_killtask</item>

@@ -19,6 +19,7 @@
 <item name="drawable/ic_rom_control_powerwidget">@drawable/com_baked_romcontrol_ic_rom_control_powerwidget</item>
 <item name="drawable/ic_rom_control_power_menu">@drawable/com_baked_romcontrol_ic_rom_control_power_menu</item>
 <item name="drawable/ic_rom_control_sound">@drawable/com_baked_romcontrol_ic_rom_control_sound</item>
+<item name="drawable/ic_rom_control_vibrations">@drawable/com_baked_romcontrol_ic_rom_control_vibrations</item>
 <item name="drawable/ic_rom_control_toggles">@drawable/com_baked_romcontrol_ic_rom_control_toggles</item>
 <item name="drawable/ic_rom_control_weather">@drawable/com_baked_romcontrol_ic_rom_control_weather</item>
 <item name="drawable/ic_settings_backup">@drawable/com_baked_romcontrol_ic_settings_backup</item>

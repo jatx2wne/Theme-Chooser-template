@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <version>1</version>
-<iconback img1="iconback" />
-<iconupon img1="iconfront" /> 
+<iconback img1="iconback" img2="iconback_1" />
+<iconupon img1="iconfront" img2="iconfront_2" img3="iconfront_3" img4="iconfront_4" /> 
 <scale factor="0.75" />
 
-<item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="browser" />
+<!--<item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="browser" />
 <item component="ComponentInfo{com.google.android.browser/com.android.browser.BrowserActivity}" drawable="browser" />
 <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="calculator" />
 <item component="ComponentInfo{com.sec.android.app.calculator/com.sec.android.app.calculator.Calculator}" drawable="calculator" />
@@ -47,7 +47,7 @@
 <item component="ComponentInfo{com.motorola.blur.alarmclock/com.motorola.blur.alarmclock.AlarmClock}" drawable="clock" />
 <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock" />
 <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}" drawable="clock" />
---><item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.ContactsFrontDoor}" drawable="contacts" />
+<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.ContactsFrontDoor}" drawable="contacts" />
 <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.ContactTabBrowserActivity}" drawable="contacts" />
 <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts" />
 <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}" drawable="contacts" />
@@ -165,6 +165,6 @@
 <item component="ComponentInfo{jqsoft.apps.mysettings/jqsoft.apps.mysettings.MySettings}" drawable="settings" />
 <item component="ComponentInfo{org.canvs2321.absolute.system/org.canvs2321.absolute.system.absolute_system}" drawable="settings" />
 <item component="ComponentInfo{com.google.android.voicesearch/com.google.android.voicesearch.RecognitionActivity}" drawable="voicesearch" />
-<item component="ComponentInfo{com.google.android.voicesearch/com.google.android.voicesearch.RecognitionActivityReal}" drawable="voicesearch" />
+<item component="ComponentInfo{com.google.android.voicesearch/com.google.android.voicesearch.RecognitionActivityReal}" drawable="voicesearch" />-->
 </resources>
 

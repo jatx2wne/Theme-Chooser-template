@@ -8,6 +8,7 @@
     <item name="style/GmailHoloTheme">@style/GmailHoloTheme</item>
     <item name="style/ShortcutWidgetTheme">@style/ShortcutWidgetTheme</item>
     <item name="style/ComposeFieldLayout">@style/ComposeFieldLayout</item>
+    <item name="style/WidgetTitle">@style/WidgetTitle</item>
 <!--xmls-->
 <item name="color/black_text">@color/com_google_android_gm_black_text</item>
 <item name="color/text_color_primary_invertible">@color/com_google_android_gm_text_color_primary_invertible</item>
